@@ -29,7 +29,7 @@ def app_func():
             '9th': 5.0,'Assoc-acdm': 12.0, 'Assoc-voc': 11.0,'Bachelors': 13.0, 'Doctorate': 16.0,'HS-grad': 9.0, 'Masters': 14.0,'Preschool': 1.0,\
             'Prof-school': 15.0,'Some-college': 10.0}
   
-      path = urlopen(r'https://github.com/abc1298000/my_repo/raw/main/pipeline.pkl')
+      path = urlopen(r'https://github.com/RauhanAhmed/Ineuron_internship/raw/main/pipeline.pkl')
       data_pipeline = pickle.load(path)
       
       x = [0 for x in range(1, 38)]
