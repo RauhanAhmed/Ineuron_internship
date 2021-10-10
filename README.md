@@ -4,9 +4,10 @@
 ## Table of contents
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Technical Aspect](#technical-aspect)
+  * [Project Goal](#project-goal)
+  * [Technical Aspect](#technical-aspects)
   * [Installation](#installation)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Bug / Feature Request](#bug-/-feature-request)
   * [Technologies Used](#technologies-used)
   * [License](#license)
 
@@ -72,7 +73,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Appendix
 
-Link for youtube video regarding description of the project :
+Link for youtube video regarding description of the project : https://youtu.be/KFZXXu3OSSk
 
 ## Author
 
