@@ -5,7 +5,7 @@
     }
   ],
   "functions":{
-    "server.py":{
+    "/server.py":{
       "memory":250
     }
   }
