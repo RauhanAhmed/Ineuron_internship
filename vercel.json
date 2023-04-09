@@ -1,13 +1,11 @@
-{ 
-  "routes":[
-    {
+{
+  "routes":{
       "src":"/(.*)",
       "dest":"server.py"
-    }
-  ],
+    },
   "functions":{
     "server.py":{
-      "memory":250,
+      "memory":250
     }
   }
 }
