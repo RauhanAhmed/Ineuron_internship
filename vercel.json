@@ -8,7 +8,6 @@
   "functions":{
     "server.py":{
       "memory":250,
-      "maxDuration":60
     }
   }
 }
